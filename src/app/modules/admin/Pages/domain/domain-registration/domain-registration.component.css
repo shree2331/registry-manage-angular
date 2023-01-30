@@ -1,0 +1,12 @@
+.my-pagination ::ng-deep .ngx-pagination .current {
+    background:#007bff;
+    
+  }
+
+  .my-pagination ::ng-deep .ngx-pagination {
+    float:right;
+    margin-top:20px;
+    border:1px solid #007bff;
+    padding:10px;
+    
+  }
